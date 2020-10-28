@@ -25,5 +25,6 @@ Voltaje recomendado de aterrizage: 3.6v (Para un correcto uso y vida de la Lipo)
 - Las baterias 4s  
 Voltaje min: 13.3v (Si bajamos el voltaje por debajo podemos dañar la Lipo)  
 Voltaje aviso: 13.8v (Si bajamos el voltaje por debajo podemos desgastar la Lipo)  
-Voltaje recomendado de aterrizage: 14.8v (Para un correcto uso y vida de la Lipo)  
+Voltaje recomendado de aterrizage: 14.8v (Para un correcto uso y vida de la Lipo) 
+Voltaje recomendado para guardar las baterias un tiempo: 15.3v (Para un correcto uso y vida de la Lipo) 
 
