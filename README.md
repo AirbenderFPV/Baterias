@@ -7,7 +7,17 @@ En este repositorio iré actualizando la información relacionada con las bateri
 LiPo es un tipo de bateria basada en litio con polimero. Es lo más utilizado en drones ya que tienen un alta capacidad de carga relativa a su peso y permiten descargas de corriente muy altas.  
 
 - Que es la C en las baterias LiPo?  
-Se utiliza la C como una base para saber a que corriente puedes cargar/ descargar una bateria. O cuanta corriente te puede dar en algun punto la bateria cuando demandes energia de ella, dependiendo de la corriente de tu bateria.  
+
+Se utiliza la C como una base para saber a que corriente puedes cargar/ descargar una bateria. O cuanta corriente te puede dar en algun punto la bateria cuando demandes energia de ella, dependiendo de la corriente de tu bateria. 
+
+- Que es el numero de celdas?
+
+Se denomina Bateria 1s a una bateria formada por una sola celda o Lipo. De la misma forma, una bateria formada por 4 celdas se denomina una Lipo 4s.
+
+- Que baterias son mas comunes?
+
+Las baterias mas comunes para los quads de 5" son las 4s, aunque una vez el piloto domina el vuelo se acostumbra a pasar a las 6s.
+Las baterias 1-2S se utilizan en Tiny o quads mas pequeños.
 
 Por ejemplo:  
 
