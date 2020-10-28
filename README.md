@@ -40,3 +40,10 @@ Voltaje aviso: 13.8v (Si bajamos el voltaje por debajo podemos desgastar la Lipo
 Voltaje recomendado de aterrizage: 14.8v (Para un correcto uso y vida de la Lipo) 
 Voltaje recomendado para guardar las baterias un tiempo: 15.3v (Para un correcto uso y vida de la Lipo) 
 
+
+#### Fuentes de información 
+
+[QuadMx Drones] http://www.quadmx.com/diccionario/   
+
+[Airbender_FPV] https://www.instagram.com/airbender_fpv/
+
