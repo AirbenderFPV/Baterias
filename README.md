@@ -1,9 +1,13 @@
 # Baterias
 
+En este repositorio iré actualizando la información relacionada con las baterias así como las configuraciones recomendadas.
 
-LiPo: Es un tipo de bateria basada en litio con polimero. Es lo más utilizado en drones ya que tienen un alta capacidad de carga relativa a su peso y permiten descargas de corriente muy altas.  
+Que es una LiPo o bateria para drone?
 
-C: Se utiliza la C como una base para saber a que corriente puedes cargar/ descargar una bateria. O cuanta corriente te puede dar en algun punto la bateria cuando demandes energia de ella, dependiendo de la corriente de tu bateria.  
+LiPo es un tipo de bateria basada en litio con polimero. Es lo más utilizado en drones ya que tienen un alta capacidad de carga relativa a su peso y permiten descargas de corriente muy altas.  
+
+Que es la C en las baterias LiPo?
+Se utiliza la C como una base para saber a que corriente puedes cargar/ descargar una bateria. O cuanta corriente te puede dar en algun punto la bateria cuando demandes energia de ella, dependiendo de la corriente de tu bateria.  
 
 Por ejemplo:  
 
