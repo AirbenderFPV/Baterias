@@ -124,6 +124,8 @@ La respuesta es cuando el voltaje llegue a **3.5 o 3.6 voltios**. En las LiPo, n
 
 <img src="https://www.prometec.net/wp-content/uploads/2018/02/g14.jpg">
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRomDEK0EUHX75dVJYgErrZsEnTyp6oYaivIw&amp;usqp=CAU">
+
 
 #### Otros comentarios  
 
